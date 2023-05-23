@@ -65,21 +65,16 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
 
-        System.out.println("My name is ChatGPT, an AI language model trained by OpenAI.");
+        System.out.println("My name is Meet, I am a engineer, has learned many different things and wanted to learn more");
         System.out.println();
 
         System.out.println("My career ambitions:");
-        System.out.println("-- Assist users in various tasks");
-        System.out.println("-- Enhance natural language understanding");
-        System.out.println("-- Learn and adapt to new information");
+        System.out.println("-- Want to utilize all my skills and learn new things");
 
         System.out.println();
 
         System.out.println("My hobbies:");
-        System.out.println("-- Generating text");
-        System.out.println("-- Answering questions");
-        System.out.println("-- Engaging in conversation");
-        System.out.println("-- Helping users with their queries");
+        System.out.println("-- To play games and learn new designing techs. ");
 
         System.out.println();
     }
